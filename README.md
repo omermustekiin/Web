@@ -1,3 +1,3 @@
 # Web-Sayfalarim
 
-1. Animasyona sahip text ile kişisel bir blog sayfası tasarımı.
+1. Animasyonlu bir text ile kişisel bir blog sayfası tasarımı.
