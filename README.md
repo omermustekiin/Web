@@ -1,5 +1,4 @@
-# Web-Sayfalarim
-
+# Content
 1. İçine lamba ışığını açma ve kapatma fonksiyonu atanmış bir buton ile lamba reklamı yapan bir firma sitesi tasarımı.
 
 2. Animasyonlu bir text ile kişisel bir blog sayfası tasarımı.
