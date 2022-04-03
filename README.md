@@ -7,3 +7,4 @@
 
 4. Sayfanın temasını karanlık veya açık olarak ayarlayabileceğiniz bir buton ile resmin hover özelliğinde translate animasyonu olan kişisel bir blog/pörtfoy sayfası tasarımı.
 
+![git fluter](https://user-images.githubusercontent.com/57271156/161427529-2c8b0d64-a1bc-40a6-9563-62e06d79a583.png)
