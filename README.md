@@ -7,3 +7,4 @@
 
 4. Sayfanın temasını karanlık veya açık olarak ayarlayabileceğiniz bir buton ile resmin hover özelliğinde translate animasyonu olan kişisel bir blog/pörtfoy sayfası tasarımı.
 
+5. Bir teknoloji firmasının çıkarmış olduğu yeni telefonunu tanıttığı ve telefonun featureslarını ziyaretçiye güzel bir animasyonla getiren bir web sayfası tasarımı.
